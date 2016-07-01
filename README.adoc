@@ -1,3 +1,10 @@
+= NEO4J-CONTRIB =
+
+WARNING: This repository is out of date, the developing is moved to neo4j contributors' repository. You can download, fork, star or open issue about neo4j-jdbc directly at this link.
+
+https://github.com/neo4j-contrib/neo4j-jdbc
+
+
 == Neo4j JDBC Driver image:https://travis-ci.org/larusba/neo4j-jdbc.svg?branch=master["Build Status", link="https://travis-ci.org/larusba/neo4j-jdbc"] ==
 
 This is the Neo4j JDBC driver that supports various types of database connections.
